@@ -24,5 +24,4 @@ I am an Electrical Engineering student at the University of Nottingham, interest
 * Low-latency hardware
 
 ## Links
-
-* [LinkedIn](www.linkedin.com/in/thomasfaries)
+www.linkedin.com/in/thomasfaries
